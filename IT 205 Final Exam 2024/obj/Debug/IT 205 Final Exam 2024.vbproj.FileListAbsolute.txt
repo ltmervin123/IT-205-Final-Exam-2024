@@ -1,0 +1,31 @@
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT_205_Final_Exam_2024.Form1.resources
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT_205_Final_Exam_2024.Resources.resources
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.GenerateResource.cache
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.CoreCompileInputs.cache
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.exe.config
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.exe
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.pdb
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.xml
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\MySql.Data.dll
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.CopyComplete
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.exe
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.xml
+D:\Current Subjects\IT 205 (2022) - Advanced DBMS\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.pdb
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.exe.config
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.exe
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.pdb
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\IT 205 Final Exam 2024.xml
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT_205_Final_Exam_2024.Form1.resources
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT_205_Final_Exam_2024.Resources.resources
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 F.A033100F.Up2Date
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.exe
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.xml
+C:\Users\Administrator\Documents\IT 205 Final Exam 2024\IT 205 Final Exam 2024\obj\Debug\IT 205 Final Exam 2024.pdb

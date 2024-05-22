@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\it 205 final exam 2024\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|solutionrelative:it 205 final exam 2024\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|c:\\users\\administrator\\documents\\it 205 final exam 2024\\it 205 final exam 2024\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|solutionrelative:it 205 final exam 2024\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\it 205 final exam 2024\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8CB38402-3B18-4A82-A642-5994DE0B2310}|IT 205 Final Exam 2024\\IT 205 Final Exam 2024.vbproj|solutionrelative:it 205 final exam 2024\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Module1.vb",
+              "RelativeDocumentMoniker": "IT 205 Final Exam 2024\\Module1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Module1.vb",
+              "RelativeToolTip": "IT 205 Final Exam 2024\\Module1.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T13:17:49.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Form1.vb",
+              "RelativeDocumentMoniker": "IT 205 Final Exam 2024\\Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Form1.vb [Design]",
+              "RelativeToolTip": "IT 205 Final Exam 2024\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T12:33:19.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Form1.vb",
+              "RelativeDocumentMoniker": "IT 205 Final Exam 2024\\Form1.vb",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\IT 205 Final Exam 2024\\IT 205 Final Exam 2024\\Form1.vb",
+              "RelativeToolTip": "IT 205 Final Exam 2024\\Form1.vb",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAKwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-22T12:29:42.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
